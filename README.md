@@ -4,7 +4,6 @@
 
 # Sense Amplifier Circuit
 
-image
 ![Caption of image](Sense_amplifier_circuit.png)
 
 ## Introduction
@@ -18,7 +17,6 @@ This structure guarantees only one switch at output in a clock
 
 ## Output
 
-image
 ![Caption of image](Sense_amplifier_output.png)
 
 
