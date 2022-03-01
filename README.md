@@ -1,23 +1,25 @@
 # Analog_Design_Hackathon
 
-# Analog-Design-Hackathon
-Dynamic flip flop
-
-# The largest heading
-
-some ranodm text
 
 
-## The second largest heading
-
-some random text
-
-###### The smallest heading
-
-some random text 
-
-
+# Sense Amplifier Circuit
 
 image
-![Caption of image](Pulse_reg_circuit.png)
 ![Caption of image](Sense_amplifier_circuit.png)
+
+## Introduction
+
+Instead of pulse based flip flops sense amplifier based flip
+flop can be used.They accept small inputs and amplifies them
+to rail to rail swing. .Sense amplifier samples the input ’IN’
+on the rising edge of the clock.The output is fed to SR latch.
+This structure guarantees only one switch at output in a clock
+
+
+## Output
+
+image
+![Caption of image](Sense_amplifier_output.png)
+
+
+
